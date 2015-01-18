@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feedback_v6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/feedback_v6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

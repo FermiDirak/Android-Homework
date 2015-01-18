@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_add_subject"
+        android:orderInCategory="0"
+        android:showAsAction="never"
+        android:title="@string/action_add_subject" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:title="@string/action_about" />
+</menu>

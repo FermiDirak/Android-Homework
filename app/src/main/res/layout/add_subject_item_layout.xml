@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/coloredImageView"
+        android:layout_width="8dp"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/blank"
+        android:background="#ee4444"/>
+
+    <TextView
+        android:id="@+id/addSubjectSubjectTitle"
+        android:paddingLeft="@dimen/padding_10"
+        android:text="@string/placeholder_text"
+        android:textSize="@dimen/text_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
